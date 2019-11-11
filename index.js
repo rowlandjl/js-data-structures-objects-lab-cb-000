@@ -1,3 +1,5 @@
+var driver = {};
+
 function updateDriverWithKeyAndValue() {
   
 }
